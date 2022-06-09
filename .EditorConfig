@@ -1,0 +1,6 @@
+# to make script encoding to UTF-8 in unity
+
+root = true
+
+[*]
+charset = utf-8
