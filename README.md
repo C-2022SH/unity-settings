@@ -1,2 +1,2 @@
 # unity-settings
-- basic unity settings for Source Tree
+- basic Unity settings for GitHub & Source Tree
